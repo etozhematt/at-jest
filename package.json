@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "y",
+
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
